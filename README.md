@@ -14,7 +14,7 @@
 
 <ul>
 <strong>Opdrachtgever Vini Mini 🥜:</strong>
-<li>Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen.  Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa.</li>
+<li>Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen. Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa.</li>
 </ul>
 
 ## 👩🏼‍💻👩🏾‍💻👨🏻‍💻👨🏼‍💻 Kenmerken
