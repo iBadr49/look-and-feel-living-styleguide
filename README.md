@@ -11,9 +11,10 @@
 * [Licentie](#licentie)
 
 ## 🗒️ Beschrijving
+<strong>Living Styleguide 🖌️:</strong>
 
-<ul>
 <strong>Opdrachtgever Vini Mini 🥜:</strong>
+<ul>
 <li>Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen. Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa.</li>
 </ul>
 
