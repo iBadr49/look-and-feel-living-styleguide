@@ -1,8 +1,8 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Vini Mini 🥜 - Living Styleguide
+
+![image](https://user-images.githubusercontent.com/112861261/202513222-da942869-c7f0-4247-a1bd-214f311c280d.png)
+
 
 
 ## Licentie
