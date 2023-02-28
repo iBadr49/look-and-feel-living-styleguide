@@ -12,6 +12,10 @@
 
 ## 🗒️ Beschrijving
 <strong>Living Styleguide 🖌️:</strong>
+<ul>
+<li>Het doel van deze opdracht: is een Living Styleguide maken voor je opdrachtgever.</li>
+<li> Lees meer in de wiki over de hele proces, van het Living styleguide: https://github.com/Nazneen05x/look-and-feel-living-styleguide/wiki</li>
+</ul>
 
 <strong>Opdrachtgever Vini Mini 🥜:</strong>
 <ul>
@@ -45,11 +49,18 @@ Lijst met gebruikte tools, technieken en communicatie middelen.
 
 ## 💻 Gebruik
 
+Het gemaakte Living Styleguide, kun je bekijken op desktop en mobile (telefoon).
+
+![image](https://user-images.githubusercontent.com/112861261/202927546-117e4a6c-ad6e-432c-8e01-e5d98b90568e.png)
+
+Bekijk hier de website: http://living-styleguide-vinimini.student.fdnd.nl/
+
+
 ## 🌐 Bronnen
 
 <ul>
 
-<li>https://miro.com/</li>
+<li>https://miro.com/app/board/uXjVPEccf3o=/</li>
 
 <li>https://vinimini.nl/</li>
 
@@ -66,3 +77,4 @@ Lijst met gebruikte tools, technieken en communicatie middelen.
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
 This work is licensed under [GNU GPLv3](./LICENSE).
+
